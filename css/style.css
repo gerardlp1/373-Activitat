@@ -1,0 +1,16 @@
+*{
+    margin: auto;
+    padding: 0;
+
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+}
