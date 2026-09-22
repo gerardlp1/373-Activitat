@@ -14,3 +14,44 @@ table, th, td {
 th, td {
   padding: 15px;
 }
+
+.negreta{
+  font-weight: bold;
+}
+
+.xarxes{
+  background-color: #b3e5a1;
+}
+
+.ang{
+  background-color: #e59edc;
+}
+
+.php{
+  background-color: #ffff00;
+}
+
+.seg{
+  background-color: #f6c5ac;
+}
+
+.tutoria{
+  background-color: #d9d9d9;
+}
+
+.proj{
+  background-color: #a5c9eb;
+}
+
+.BD-Soste{
+  background-color: #f08784;
+}
+
+.arduino{
+  background-color: #83caeb;
+}
+
+.web{
+  color: white;
+  background-color: #7030a0;
+}
